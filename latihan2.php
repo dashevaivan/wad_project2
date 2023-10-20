@@ -21,7 +21,7 @@
     </div>
 
     <select class="form-select mb-1; container" style="padding: 7px;">
-    <option selected>Pilih Angka</option>
+    <option selected>Input 2</option>
     <option value="1">1</option>
     <option value="2">2</option>
     <option value="3">3</option>
